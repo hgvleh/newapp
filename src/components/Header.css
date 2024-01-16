@@ -1,0 +1,10 @@
+.navbar {
+  background: rgb(2, 155, 175);
+  background: linear-gradient(
+    90deg,
+    rgb(0, 98, 122) 45%,
+    rgb(2, 158, 189) 100%
+  );
+  padding: 1.5rem 1rem;
+  margin-bottom: 0px;
+}
